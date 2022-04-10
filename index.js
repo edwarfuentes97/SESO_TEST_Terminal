@@ -62,4 +62,13 @@ function runSolutions(sourceCount) {
 }
 
 // Adjust this input to see how your solutions perform under various loads.
-runSolutions(100);
+runSolutions(100).then(() => {
+  console.group('-----------------------------')
+  console.info('>>> I tried to do both solutions but to be honest I don\'t have enough time to finish the second part.')
+  console.info('>>> I really enjoyed doing this test, it\'s been a long time since I had a test where something was really required (data structures are not common in tests)')
+  console.info('>>> Very good technical test.')
+  console.info('>>> PD: sorry fir the comment whit // i dont have time to apply a standar documentation. ' +
+      '(i now that the time end in monday but i have thing to do sunday (for my currently work))')
+  console.info('-----------------------------')
+  console.groupEnd()
+});
