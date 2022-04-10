@@ -13,3 +13,5 @@ I tried to do both solutions but to be honest Although I know I have much more t
 I really enjoyed doing this test, it's been a long time since I had a test where something was really required (data structures are not common in tests)
 
 Very good technical test.
+
+# Just $npm start and enjoy
