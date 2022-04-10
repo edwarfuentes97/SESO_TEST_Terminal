@@ -56,7 +56,7 @@ class BinarySearchTree {
     }
   }
 
-  // this is when u use the class context (It can be used without the push of line 49)
+  // this is when u use the class context (It can be used without the push of line 54)
   getRootNode() {
     return this.root;
   }
